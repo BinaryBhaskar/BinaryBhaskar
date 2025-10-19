@@ -36,19 +36,19 @@ val developer = Developer(
 ### 📱 GDG GGV App
 **October 2025 - Present**
 
-    Developed an app for the Google Developer Groups on Campus at Guru Ghasidas Vishwavidyalaya to connect and engage the developer community.
+Developed an app for the Google Developer Groups on Campus at Guru Ghasidas Vishwavidyalaya to connect and engage the developer community.
 
 ### 📸 Passported
 **July 2024 - October 2025**
 
-    Native Android app using Kotlin and Jetpack Compose to automate passport photo resizing and background removal for a local business. Streamlined the process, reduced manual effort, and saved time.
+Native Android app using Kotlin and Jetpack Compose to automate passport photo resizing and background removal for a local business. Streamlined the process, reduced manual effort, and saved time.
 
 **Experience Gained:** `Kotlin` • `Jetpack Compose` • `Problem Solving`
 
 ### 🍽️ FlavourSync
 **August 2023 - December 2023**
 
-    Restaurant management CLI Application developed as a Computer Science final project.
+Restaurant management CLI Application developed as a Computer Science final project.
 
 **Experience Gained:** `Python` • `Problem Solving`
 
