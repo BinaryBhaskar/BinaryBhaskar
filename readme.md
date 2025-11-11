@@ -94,11 +94,6 @@ Certified by CEFR
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarybhaskar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binarybhaskar&layout=compact&theme=radical)
-
 ## 📫 Contact
 
 📧 [patel.bhaskar09@gmail.com](mailto:patel.bhaskar09@gmail.com)
