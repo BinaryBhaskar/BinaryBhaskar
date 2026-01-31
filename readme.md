@@ -3,6 +3,15 @@
 ### Hi, I’m Bhaskar 👋  
 <sub>Android developer · building practical software with care</sub>
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binarybhaskar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binarybhaskar)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.bhaskar09@gmail.com)
+<a href="assets/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=4285F4" alt="Resume"/>
+</a>
+
 </div>
 
 ---
