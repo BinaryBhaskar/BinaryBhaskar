@@ -12,114 +12,31 @@ Raigarh, India • [Website](https://bhaskar.amurot.com) • [Resume](https://bh
 
 </div>
 
----
+## 👋 About
 
-# 👋 About Me
+Android engineer building polished apps with **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
 
-I'm an Android engineer focused on building polished consumer applications with modern Android technologies.
+Founder of **Amurot**, where I design, build and ship Android products end to end.
 
-Alongside pursuing a **B.Tech in Information Technology** and a **BS in Data Science**, I founded **Amurot**, where I design, build and ship Android products from idea to production.
+Currently pursuing:
+- 🎓 B.Tech in IT @ Guru Ghasidas Vishwavidyalaya
+- 🎓 BS in Data Science @ IIT Madras
 
-I enjoy solving difficult engineering problems around architecture, performance and delightful user experience.
+## 🚀 Highlights
 
----
+- 📱 **Linkerly** → Offline-first bookmark manager on Google Play
+- 🏆 **Smart India Hackathon 2025** → National Winner
+- 🛠️ **AnkiDroid** → Open Source Contributor
+- 🖨️ **PassportedAPK** → Used by 100+ local photo shops
 
-# 🚀 Featured Projects
+## 💻 Tech
 
-## 📱 Linkerly
+`Kotlin` `Jetpack Compose` `Room` `Hilt` `Coroutines` `Flow`
+`MVVM` `Clean Architecture` `Firebase` `Git`
 
-> Smart Bookmark Manager • Live on Google Play
+## 🌱 Currently
 
-Offline-first bookmark manager built with **Kotlin**, **Jetpack Compose**, **Room**, **Hilt**, **Coroutines**, **Flow**, and **Clean Architecture**.
-
-Highlights
-
-- Offline-first architecture
-- Automatic metadata extraction
-- Full-text search
-- Folder organisation
-- Modern Material 3 UI
-- Entire product built solo
-
----
-
-## 🏆 Smart India Hackathon 2025
-
-**National Winner (1st Prize)**
-
-Built the Android application for a government solution verifying Aadhaar-bank linkage and DBT seeding status while collaborating with a multidisciplinary team.
-
----
-
-## 🖨️ PassportedAPK
-
-Automates passport photo processing for local photo studios.
-
-Reduced average processing time from **~10 minutes to ~20 seconds**.
-
-Features
-
-- Background removal
-- Passport grid generation
-- Aadhaar support
-- Hindi & English interface
-
----
-
-## 🛠️ Open Source
-
-### AnkiDroid
-
-Contributed production Kotlin code and automated tests to one of the world's largest open-source Android applications.
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-`Kotlin` `Java` `C++` `Python` `JavaScript`
-
-### Android
-
-Jetpack Compose • Room • Hilt • Coroutines • Flow • MVVM • Clean Architecture • Navigation • Material 3
-
-### Tools
-
-Android Studio • Git • GitHub • Gradle • Figma • Firebase • Supabase
-
----
-
-# 🎯 Currently
-
-- 🚀 Growing Linkerly
-- 📚 Preparing for Google & top software engineering internships
-- 🌳 Data Structures & Algorithms
-- 🏆 Smart India Hackathon 2026
-- 🤝 Contributing to Open Source
-
----
-
-# 🎓 Education
-
-**Indian Institute of Technology Madras**
-
-BS in Data Science & Applications
-
-2025 – Present
-
-<br>
-
-**Guru Ghasidas Vishwavidyalaya**
-
-B.Tech in Information Technology
-
-2025 – Present
-
----
-
-<div align="center">
-
-### Building products people actually enjoy using.
-
-</div>
+- Growing **Linkerly**
+- Preparing for software engineering internships
+- Open Source
+- DSA
