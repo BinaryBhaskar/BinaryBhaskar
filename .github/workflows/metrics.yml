@@ -1,0 +1,67 @@
+name: Metrics
+on:
+  # Runs on a schedule so metrics stay fresh
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual trigger from the Actions tab
+  workflow_dispatch:
+  # Runs once when you push this workflow
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Main metrics: header, activity graph, community stats, repo stats
+      - name: Base metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+      # Isometric calendar — contribution activity as a 3D grid
+      - name: Isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+      # Most used languages, ranked by bytes/commits
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_threshold: 0%
+
+      # Coding habits — active hours/days from recent commits
+      - name: Coding habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: bar
+          plugin_habits_facts: yes
+          plugin_habits_days: 60
+          config_timezone: Asia/Kolkata
