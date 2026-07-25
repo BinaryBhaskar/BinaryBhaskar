@@ -12,6 +12,7 @@ on:
 
 jobs:
   metrics:
+    if: ${{ secrets.METRICS_TOKEN != '' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
