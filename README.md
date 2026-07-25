@@ -1,83 +1,92 @@
 <div align="center">
 
-### Hi, I’m Bhaskar 👋  
-<sub>Android developer · building practical software with care</sub>
+# Bhaskar Patel
 
-<br/>
+**Founder @ Amurot · Android Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binarybhaskar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binarybhaskar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.bhaskar09@gmail.com)
-<a href="resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=4285F4" alt="Resume"/>
-</a>
+Raigarh, India · [bhaskar.amurot.com](https://bhaskar.amurot.com) · [Resume](https://bhaskar.amurot.com/BhaskarPatelResume.pdf) · [patel.bhaskar09@gmail.com](mailto:patel.bhaskar09@gmail.com) · [LinkedIn](https://linkedin.com/in/binarybhaskar)
 
 </div>
 
----
+<br/>
 
-### About me
+## About
 
-I build Android applications that are meant to be used, not just showcased.  
-I care about clean architecture, thoughtful UX, and small details that make software feel calm and reliable.
+I build Android applications that are meant to be used, not just showcased. I care about clean architecture, thoughtful UX, and the small details that make software feel calm and reliable.
 
-I’m currently pursuing a **dual degree** in **Data Science at IIT Madras** and **Information Technology**, and I spend most of my time designing, building, and refining mobile products that solve real problems.
+I'm pursuing a dual degree — BS in Data Science at IIT Madras and B.Tech in Information Technology at Guru Ghasidas Vishwavidyalaya — while founding and solely running **Amurot**, where I own architecture, engineering, and design end-to-end.
 
-Some of my work is already in production, including a **Smart India Hackathon–winning solution** and Android apps used by **100+ local businesses**.
+<br/>
 
----
+## Featured Work
 
-### Featured projects
+**📱 [Linkerly](https://play.google.com/store/apps/details?id=com.amurot.linkerly) — Smart Bookmark Manager**
+*Live on Google Play · Kotlin, Jetpack Compose, Room, Hilt, Coroutines, Flow, MVVM, Clean Architecture*
 
-#### 🏆 Smart India Hackathon 2025 — Winner  
-**React Native · Android & iOS**
+Offline-first Android app with automatic metadata extraction, folder-based organization, and full-text search. Clean Architecture data layer (Room + repository pattern) for consistent offline access across configuration changes. UI state rebuilt on Kotlin Flow + Coroutines, eliminating race conditions present in an earlier prototype. Solo-built: architecture, engineering, and design.
 
-- Solely designed and developed the mobile app for a national-level winning solution  
-- Built user-friendly flows for Aadhaar–bank account linkage and DBT verification  
-- Focused on accessibility and low-friction experiences for citizens  
-- Owned end-to-end mobile development while collaborating with cross-functional teams  
+**🏆 Smart India Hackathon 2025 — National Winner (1st Prize)**
+*Ministry of Social Justice & Empowerment, AICTE · React Native, Android, iOS*
 
----
+Mobile app for a national-finalist government solution verifying Aadhaar–bank account linkage and DBT seeding status. Independently owned the entire mobile codebase, coordinating with a cross-functional team responsible for the web platform and documentation.
 
-#### 📱 PassportedAPK — Photo Printing, Simplified  
-**Kotlin · Jetpack Compose · Android**
+**🖨️ PassportedAPK — Photo Printing Automation**
+*Kotlin, Jetpack Compose*
 
-- Designed and built an Android app to automate passport photo creation  
-- Implemented background removal and one-tap photo grid generation  
-- Added Hindi and English support for local usability  
-- Adopted by **~100 local shops**, reducing processing time from ~10 minutes to ~20 seconds  
+Automates passport-photo background removal and grid layout generation for local photo shops. Reduced per-customer processing time from ~10 minutes to ~20 seconds. Adopted by ~100 local shops, with bilingual (Hindi/English) and Aadhaar-photo support.
 
----
+**🛠️ AnkiDroid — Open Source Contributor**
+*Kotlin, Android · 10M+ downloads*
 
-### Tools & technologies
+Fixed a reported bug and added a corresponding test in AnkiDroid's production codebase, working through multiple code review rounds with maintainers ahead of merge.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,ktor&theme=dark" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,idea,github&theme=dark" />
-</p>
+## GitHub Metrics
 
----
+<div align="center">
+<img src="./metrics.base.svg" width="100%" alt="GitHub metrics: header, activity, community, repositories"/>
+</div>
 
-### Education
+<br/>
 
-- **Indian Institute of Technology (IIT Madras)**  
-  BS in Data Science and Applications · *2025 – Present*
+<div align="center">
+<img src="./metrics.isocalendar.svg" width="100%" alt="Isometric contribution calendar"/>
+</div>
 
-- **Guru Ghasidas University, Bilaspur**  
-  B.Tech in Information Technology · *2025 – Present*
+<br/>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./metrics.languages.svg" width="100%" alt="Most used languages"/>
+</td>
+<td width="50%" valign="top">
+<img src="./metrics.habits.svg" width="100%" alt="Coding habits"/>
+</td>
+</tr>
+</table>
 
-### Currently focused on
+<br/>
 
-- Building production-ready Android apps  
-- Improving Compose UI and motion  
-- Exploring scalable mobile architectures  
+## Education
 
----
+**Indian Institute of Technology (IIT Madras)**
+BS in Data Science and Applications · 2025 – Present
+
+**Guru Ghasidas Vishwavidyalaya**
+B.Tech in Information Technology · 2025 – Present
+
+<br/>
+
+## Currently Focused On
+
+- Growing Linkerly post-launch
+- Data Structures & Algorithms — Trees → Graphs → DP
+- Smart India Hackathon 2026
+- Scalable mobile architecture patterns
+
+<br/>
 
 <div align="center">
 <sub>Building quietly. Improving constantly.</sub>
