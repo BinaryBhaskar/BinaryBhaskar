@@ -29,7 +29,6 @@ I enjoy creating polished products, contributing to open source, experimenting w
 - Java
 - C++
 - Python
-- JavaScript
 - SQL
 
 ### Android
@@ -42,17 +41,10 @@ I enjoy creating polished products, contributing to open source, experimenting w
 - Room
 - Retrofit
 
-### Backend & Cloud
-- Spring Boot
-- Firebase
-- Supabase
-- PostgreSQL
-
 ### Tools
 - Android Studio
 - IntelliJ IDEA
 - Git & GitHub
-- Docker
 - Linux
 - Figma
 
