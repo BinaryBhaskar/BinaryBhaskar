@@ -35,7 +35,6 @@ I enjoy creating polished products, contributing to open source, experimenting w
 - Coroutines & Flow
 - Hilt
 - Room
-- Retrofit
 
 ### Tools
 - Android Studio
