@@ -9,8 +9,6 @@
   <a href="mailto:bhaskar@amurot.com"><img src="./assets/btn-email.svg" height="42" alt="Email" /></a>
 </p>
 
-<br />
-
 <img src="./assets/section-about.svg" width="100%" alt="01. About" />
 
 I'm **Bhaskar**, an Android developer and product builder from Raigarh, India. Most of my time goes into writing **Kotlin**, designing with **Jetpack Compose**, and figuring out how to make software feel effortless.
@@ -18,8 +16,6 @@ I'm **Bhaskar**, an Android developer and product builder from Raigarh, India. M
 I founded **[Amurot](https://amurot.com)** to build calm, fast tools that solve real problems, starting with **[Linkerly](https://linkerly.amurot.com)**. I'm also a **Smart India Hackathon 2025 national winner** with Team Data CodeBlitz.
 
 <img src="./assets/highlights.svg" width="100%" alt="Highlights: SIH 2025 National Winner, Linkerly live on Google Play, Founder of Amurot, B.Tech IT at GGV" />
-
-<br />
 
 <img src="./assets/section-building.svg" width="100%" alt="02. Building" />
 
@@ -30,13 +26,9 @@ I founded **[Amurot](https://amurot.com)** to build calm, fast tools that solve 
 
 <sub>Get Linkerly on <a href="https://play.google.com/store/apps/details?id=com.amurot.linkerly">Google Play</a> · Amurot on <a href="https://www.youtube.com/@amurotlabs">YouTube</a> and <a href="https://github.com/amurot-labs">GitHub</a></sub>
 
-<br /><br />
-
 <img src="./assets/section-stack.svg" width="100%" alt="03. Stack" />
 
 <img src="./assets/stack.svg" width="100%" alt="Languages: Kotlin, Java, C++, Python, SQL. Android: Jetpack Compose, Material 3, Android SDK, Coroutines, Flow, Hilt, Room, MVVM. Architecture: Clean Architecture, Offline-first, REST APIs, UI/UX Design. Tooling: Android Studio, Gradle, Git, GitHub, Firebase, Figma, Linux." />
-
-<br />
 
 <img src="./assets/section-signal.svg" width="100%" alt="04. Signal" />
 
